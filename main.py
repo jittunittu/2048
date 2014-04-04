@@ -112,7 +112,7 @@ class Number(Widget):
     number = NumericProperty(2)
     scale = NumericProperty(.1)
     colors = {
-        2: get_color_from_hex('#eee4da'),
+        #2: get_color_from_hex('#eee4da'),
         4: get_color_from_hex('#ede0c8'),
         8: get_color_from_hex('#f2b179'),
         16: get_color_from_hex('#f59563'),
